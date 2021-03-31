@@ -3,6 +3,6 @@ Python Scritpt which can be embedded into PyTorch model to print the model size.
 
 
 
-Contributors:
+## Contributors:
 
-Ping & Peiyi Hong
+**Ping & Peiyi Hong
