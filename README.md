@@ -10,7 +10,7 @@ Python Scritpt which can be embedded into PyTorch model to print the model size.
 
 3 Put `DNN_printer(net, (3, 32, 32),batch_size)` in your code.
 
-**Notice:** `net` is the model variance;`(3, 32, 32)` is the size of input data;`batch_size` is batch size.
+**Notice:** `net` is the model variance;`(3, 32, 32)` is the size of input data;`batch_size` is the number of batch size.
 
 ```
 from DNN_printer import DNN_printer
